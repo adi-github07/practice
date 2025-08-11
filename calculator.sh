@@ -3,5 +3,9 @@ add
 
 intergartion
 
+
 defrentiation
+
+
+divide
 
